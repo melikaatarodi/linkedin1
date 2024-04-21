@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>0_2GRD9RrnrY5usoyS (1).webp</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>

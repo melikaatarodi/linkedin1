@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>captcha.png</file>
+        <file>CAPTCHA-1000-x-700-copy-790x310-1.jpg</file>
+        <file>captcha-with-characters.png</file>
+        <file>components-captcha-usage-placeholder-text-do.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
